@@ -24,3 +24,9 @@
 - 语料：Zhihu-KOL 分片 0（306 MB，201,244 行 → 138,304 行清洗后）
 - 训练：LoRA r=16，5.87 M 可训练参数（1.17%），150 步 / 4,800 条 / 25.4 分钟
 - 评测：知乎测试集 PPL 49.88 → 48.57；CMMLU 36.12% → 34.93%；C-Eval 37.31% → 37.69%
+
+## 完整归档（1.9 GB）
+
+基座模型、4-bit 副本、原始 306 MB 语料与全部清洗数据见 Release：
+
+https://github.com/summerysy/Artificial-Intelligence-and-Machine-Learning-Assignment./releases/tag/v1.0-zhihu-lora
