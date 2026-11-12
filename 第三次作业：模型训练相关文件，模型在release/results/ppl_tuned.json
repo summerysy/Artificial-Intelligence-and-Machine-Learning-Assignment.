@@ -1,0 +1,10 @@
+{
+  "model": "models/base",
+  "adapter": "models/adapters/zhihu-qwen05b-lora",
+  "split": "data/sft/test.jsonl",
+  "n_samples": 2000,
+  "n_tokens": 678997,
+  "loss": 3.88305,
+  "ppl": 48.572,
+  "seconds": 404.2
+}

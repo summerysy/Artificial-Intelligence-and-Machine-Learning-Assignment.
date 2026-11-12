@@ -1,0 +1,280 @@
+{
+  "benchmark": "CMMLU",
+  "n": 335,
+  "accuracy": 0.3612,
+  "correct": 121,
+  "model": "models/base",
+  "adapter": null,
+  "seconds": 71.3,
+  "per_subject": {
+    "agronomy": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "anatomy": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "ancient chinese": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "arts": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "astronomy": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "business ethics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "chinese civil service exam": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "chinese driving rule": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "chinese food culture": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "chinese foreign policy": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "chinese history": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "chinese literature": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "chinese teacher qualification": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "clinical knowledge": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "college actuarial science": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "college education": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "college engineering hydrology": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "college law": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "college mathematics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "college medical statistics": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "college medicine": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "computer science": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "computer security": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "conceptual physics": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "construction project management": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "economics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "education": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "electrical engineering": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "elementary chinese": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "elementary commonsense": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "elementary information and technology": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "elementary mathematics": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "ethnology": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "food science": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "genetics": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "global facts": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "high school biology": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "high school chemistry": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "high school geography": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "high school mathematics": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "high school physics": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "high school politics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "human sexuality": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "international law": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "journalism": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "jurisprudence": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "legal and moral basis": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "logical": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "machine learning": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "management": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "marketing": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "marxist theory": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "modern chinese": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "nutrition": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "philosophy": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "professional accounting": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "professional law": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "professional medicine": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "professional psychology": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "public relations": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "security study": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "sociology": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "sports science": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "traditional chinese medicine": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "virology": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "world history": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "world religions": {
+      "acc": 0.6,
+      "n": 5
+    }
+  },
+  "shots": 5
+}

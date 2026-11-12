@@ -1,0 +1,10 @@
+{
+  "model": "models/base",
+  "adapter": null,
+  "split": "data/sft/test.jsonl",
+  "n_samples": 2000,
+  "n_tokens": 678997,
+  "loss": 3.90961,
+  "ppl": 49.88,
+  "seconds": 335.1
+}

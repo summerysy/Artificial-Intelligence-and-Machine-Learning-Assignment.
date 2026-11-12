@@ -1,0 +1,220 @@
+{
+  "benchmark": "C-Eval",
+  "n": 260,
+  "accuracy": 0.3731,
+  "correct": 97,
+  "model": "models/base",
+  "adapter": null,
+  "seconds": 78.3,
+  "per_subject": {
+    "accountant": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "advanced mathematics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "art studies": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "basic medicine": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "business administration": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "chinese language and literature": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "civil servant": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "clinical medicine": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "college chemistry": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "college economics": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "college physics": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "college programming": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "computer architecture": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "computer network": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "discrete mathematics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "education science": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "electrical engineer": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "environmental impact assessment engineer": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "fire engineer": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "high school biology": {
+      "acc": 0.0,
+      "n": 5
+    },
+    "high school chemistry": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "high school chinese": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "high school geography": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "high school history": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "high school mathematics": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "high school physics": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "high school politics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "ideological and moral cultivation": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "law": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "legal professional": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "logic": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "mao zedong thought": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "marxism": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "metrology engineer": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "middle school biology": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "middle school chemistry": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "middle school geography": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "middle school history": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "middle school mathematics": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "middle school physics": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "middle school politics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "modern chinese history": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "operating system": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "physician": {
+      "acc": 0.8,
+      "n": 5
+    },
+    "plant protection": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "probability and statistics": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "professional tour guide": {
+      "acc": 0.2,
+      "n": 5
+    },
+    "sports science": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "tax accountant": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "teacher qualification": {
+      "acc": 0.4,
+      "n": 5
+    },
+    "urban and rural planner": {
+      "acc": 1.0,
+      "n": 5
+    },
+    "veterinary medicine": {
+      "acc": 0.4,
+      "n": 5
+    }
+  },
+  "shots": 5
+}
