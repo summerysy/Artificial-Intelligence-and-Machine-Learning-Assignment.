@@ -1,0 +1,30 @@
+{
+  "selected_checkpoint_step": 50,
+  "selected_reason": "step-150 had lower val loss but repetitive generations; step-50 keeps coherent output",
+  "samples_seen": 1600,
+  "supervised_tokens_seen": 403000,
+  "val_loss_48_samples": 3.9648,
+  "test_ppl": 48.572,
+  "test_loss": 3.88305,
+  "trainable_params": 5865472,
+  "total_params": 499898240,
+  "adapter_tensors": 224,
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "lora": {
+    "rank": 16,
+    "scale": 2.0,
+    "dropout": 0.05,
+    "num_layers": 16,
+    "lr": 3e-05
+  },
+  "full_run": {
+    "optimizer_steps": 150,
+    "micro_batches": 600,
+    "samples": 4800,
+    "seconds": 1526.6
+  },
+  "artifacts": {
+    "step50": "models/adapters/zhihu-lora-step50",
+    "step150": "models/adapters/zhihu-lora-step150"
+  }
+}

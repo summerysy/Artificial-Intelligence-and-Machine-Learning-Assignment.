@@ -1,0 +1,52 @@
+{
+  "source": "wangrui6/Zhihu-KOL (HF) / OmniData/Zhihu-KOL (ModelScope), shard 0",
+  "license": "Apache-2.0",
+  "raw_rows": 201244,
+  "kept_rows": 138304,
+  "drop_reasons": {
+    "raw": 201244,
+    "empty": 655,
+    "instr_len": 10,
+    "resp_len": 56393,
+    "cjk": 584,
+    "ad": 5289,
+    "dup": 9,
+    "ok": 138304
+  },
+  "raw_chars": 152550578,
+  "clean_chars": 151198754,
+  "approx_tokens_cjk": 97547583,
+  "train": {
+    "n": 40000,
+    "chars": 21931910,
+    "mean": 548.3,
+    "p50": 331.0,
+    "p90": 1405,
+    "max": 2500
+  },
+  "train_full": {
+    "n": 134304,
+    "chars": 73374976,
+    "mean": 546.3,
+    "p50": 330.0,
+    "p90": 1398,
+    "max": 2500
+  },
+  "valid": {
+    "n": 2000,
+    "chars": 1081629,
+    "mean": 540.8,
+    "p50": 321.0,
+    "p90": 1368,
+    "max": 2494
+  },
+  "test": {
+    "n": 2000,
+    "chars": 1101761,
+    "mean": 550.9,
+    "p50": 328.0,
+    "p90": 1387,
+    "max": 2487
+  },
+  "elapsed_s": 13.4
+}

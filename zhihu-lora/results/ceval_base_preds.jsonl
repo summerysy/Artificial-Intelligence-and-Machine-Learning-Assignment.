@@ -1,0 +1,260 @@
+{"subject": "accountant", "pred": "B", "answer": "B", "ok": true}
+{"subject": "accountant", "pred": "C", "answer": "C", "ok": true}
+{"subject": "accountant", "pred": "D", "answer": "B", "ok": false}
+{"subject": "accountant", "pred": "C", "answer": "D", "ok": false}
+{"subject": "accountant", "pred": "C", "answer": "B", "ok": false}
+{"subject": "advanced mathematics", "pred": "A", "answer": "C", "ok": false}
+{"subject": "advanced mathematics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "advanced mathematics", "pred": "A", "answer": "B", "ok": false}
+{"subject": "advanced mathematics", "pred": "D", "answer": "B", "ok": false}
+{"subject": "advanced mathematics", "pred": "A", "answer": "A", "ok": true}
+{"subject": "art studies", "pred": "C", "answer": "A", "ok": false}
+{"subject": "art studies", "pred": "A", "answer": "C", "ok": false}
+{"subject": "art studies", "pred": "C", "answer": "D", "ok": false}
+{"subject": "art studies", "pred": "A", "answer": "A", "ok": true}
+{"subject": "art studies", "pred": "D", "answer": "A", "ok": false}
+{"subject": "basic medicine", "pred": "C", "answer": "D", "ok": false}
+{"subject": "basic medicine", "pred": "C", "answer": "C", "ok": true}
+{"subject": "basic medicine", "pred": "B", "answer": "B", "ok": true}
+{"subject": "basic medicine", "pred": "D", "answer": "B", "ok": false}
+{"subject": "basic medicine", "pred": "B", "answer": "C", "ok": false}
+{"subject": "business administration", "pred": "A", "answer": "A", "ok": true}
+{"subject": "business administration", "pred": "C", "answer": "A", "ok": false}
+{"subject": "business administration", "pred": "C", "answer": "A", "ok": false}
+{"subject": "business administration", "pred": "D", "answer": "B", "ok": false}
+{"subject": "business administration", "pred": "C", "answer": "B", "ok": false}
+{"subject": "chinese language and literature", "pred": "B", "answer": "D", "ok": false}
+{"subject": "chinese language and literature", "pred": "C", "answer": "D", "ok": false}
+{"subject": "chinese language and literature", "pred": "D", "answer": "D", "ok": true}
+{"subject": "chinese language and literature", "pred": "D", "answer": "A", "ok": false}
+{"subject": "chinese language and literature", "pred": "B", "answer": "A", "ok": false}
+{"subject": "civil servant", "pred": "D", "answer": "B", "ok": false}
+{"subject": "civil servant", "pred": "D", "answer": "C", "ok": false}
+{"subject": "civil servant", "pred": "D", "answer": "A", "ok": false}
+{"subject": "civil servant", "pred": "C", "answer": "D", "ok": false}
+{"subject": "civil servant", "pred": "B", "answer": "A", "ok": false}
+{"subject": "clinical medicine", "pred": "C", "answer": "D", "ok": false}
+{"subject": "clinical medicine", "pred": "C", "answer": "D", "ok": false}
+{"subject": "clinical medicine", "pred": "D", "answer": "D", "ok": true}
+{"subject": "clinical medicine", "pred": "B", "answer": "B", "ok": true}
+{"subject": "clinical medicine", "pred": "B", "answer": "B", "ok": true}
+{"subject": "college chemistry", "pred": "C", "answer": "B", "ok": false}
+{"subject": "college chemistry", "pred": "D", "answer": "C", "ok": false}
+{"subject": "college chemistry", "pred": "C", "answer": "D", "ok": false}
+{"subject": "college chemistry", "pred": "A", "answer": "D", "ok": false}
+{"subject": "college chemistry", "pred": "D", "answer": "A", "ok": false}
+{"subject": "college economics", "pred": "A", "answer": "C", "ok": false}
+{"subject": "college economics", "pred": "C", "answer": "D", "ok": false}
+{"subject": "college economics", "pred": "D", "answer": "C", "ok": false}
+{"subject": "college economics", "pred": "D", "answer": "A", "ok": false}
+{"subject": "college economics", "pred": "B", "answer": "B", "ok": true}
+{"subject": "college physics", "pred": "D", "answer": "A", "ok": false}
+{"subject": "college physics", "pred": "B", "answer": "C", "ok": false}
+{"subject": "college physics", "pred": "A", "answer": "D", "ok": false}
+{"subject": "college physics", "pred": "D", "answer": "A", "ok": false}
+{"subject": "college physics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "college programming", "pred": "D", "answer": "A", "ok": false}
+{"subject": "college programming", "pred": "D", "answer": "D", "ok": true}
+{"subject": "college programming", "pred": "C", "answer": "B", "ok": false}
+{"subject": "college programming", "pred": "D", "answer": "A", "ok": false}
+{"subject": "college programming", "pred": "C", "answer": "A", "ok": false}
+{"subject": "computer architecture", "pred": "D", "answer": "D", "ok": true}
+{"subject": "computer architecture", "pred": "A", "answer": "A", "ok": true}
+{"subject": "computer architecture", "pred": "A", "answer": "B", "ok": false}
+{"subject": "computer architecture", "pred": "D", "answer": "A", "ok": false}
+{"subject": "computer architecture", "pred": "B", "answer": "D", "ok": false}
+{"subject": "computer network", "pred": "A", "answer": "B", "ok": false}
+{"subject": "computer network", "pred": "C", "answer": "C", "ok": true}
+{"subject": "computer network", "pred": "C", "answer": "A", "ok": false}
+{"subject": "computer network", "pred": "D", "answer": "D", "ok": true}
+{"subject": "computer network", "pred": "B", "answer": "C", "ok": false}
+{"subject": "discrete mathematics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "discrete mathematics", "pred": "D", "answer": "C", "ok": false}
+{"subject": "discrete mathematics", "pred": "A", "answer": "D", "ok": false}
+{"subject": "discrete mathematics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "discrete mathematics", "pred": "D", "answer": "A", "ok": false}
+{"subject": "education science", "pred": "D", "answer": "D", "ok": true}
+{"subject": "education science", "pred": "C", "answer": "D", "ok": false}
+{"subject": "education science", "pred": "D", "answer": "D", "ok": true}
+{"subject": "education science", "pred": "A", "answer": "B", "ok": false}
+{"subject": "education science", "pred": "D", "answer": "A", "ok": false}
+{"subject": "electrical engineer", "pred": "A", "answer": "A", "ok": true}
+{"subject": "electrical engineer", "pred": "B", "answer": "C", "ok": false}
+{"subject": "electrical engineer", "pred": "A", "answer": "C", "ok": false}
+{"subject": "electrical engineer", "pred": "D", "answer": "A", "ok": false}
+{"subject": "electrical engineer", "pred": "C", "answer": "C", "ok": true}
+{"subject": "environmental impact assessment engineer", "pred": "B", "answer": "D", "ok": false}
+{"subject": "environmental impact assessment engineer", "pred": "A", "answer": "C", "ok": false}
+{"subject": "environmental impact assessment engineer", "pred": "C", "answer": "C", "ok": true}
+{"subject": "environmental impact assessment engineer", "pred": "D", "answer": "A", "ok": false}
+{"subject": "environmental impact assessment engineer", "pred": "D", "answer": "D", "ok": true}
+{"subject": "fire engineer", "pred": "B", "answer": "B", "ok": true}
+{"subject": "fire engineer", "pred": "D", "answer": "D", "ok": true}
+{"subject": "fire engineer", "pred": "C", "answer": "B", "ok": false}
+{"subject": "fire engineer", "pred": "C", "answer": "B", "ok": false}
+{"subject": "fire engineer", "pred": "D", "answer": "B", "ok": false}
+{"subject": "high school biology", "pred": "D", "answer": "C", "ok": false}
+{"subject": "high school biology", "pred": "C", "answer": "A", "ok": false}
+{"subject": "high school biology", "pred": "C", "answer": "D", "ok": false}
+{"subject": "high school biology", "pred": "C", "answer": "B", "ok": false}
+{"subject": "high school biology", "pred": "B", "answer": "A", "ok": false}
+{"subject": "high school chemistry", "pred": "D", "answer": "A", "ok": false}
+{"subject": "high school chemistry", "pred": "D", "answer": "B", "ok": false}
+{"subject": "high school chemistry", "pred": "D", "answer": "A", "ok": false}
+{"subject": "high school chemistry", "pred": "D", "answer": "D", "ok": true}
+{"subject": "high school chemistry", "pred": "B", "answer": "D", "ok": false}
+{"subject": "high school chinese", "pred": "D", "answer": "C", "ok": false}
+{"subject": "high school chinese", "pred": "A", "answer": "A", "ok": true}
+{"subject": "high school chinese", "pred": "D", "answer": "B", "ok": false}
+{"subject": "high school chinese", "pred": "A", "answer": "D", "ok": false}
+{"subject": "high school chinese", "pred": "D", "answer": "D", "ok": true}
+{"subject": "high school geography", "pred": "A", "answer": "C", "ok": false}
+{"subject": "high school geography", "pred": "D", "answer": "D", "ok": true}
+{"subject": "high school geography", "pred": "C", "answer": "A", "ok": false}
+{"subject": "high school geography", "pred": "D", "answer": "B", "ok": false}
+{"subject": "high school geography", "pred": "D", "answer": "D", "ok": true}
+{"subject": "high school history", "pred": "B", "answer": "B", "ok": true}
+{"subject": "high school history", "pred": "D", "answer": "C", "ok": false}
+{"subject": "high school history", "pred": "C", "answer": "C", "ok": true}
+{"subject": "high school history", "pred": "C", "answer": "C", "ok": true}
+{"subject": "high school history", "pred": "C", "answer": "A", "ok": false}
+{"subject": "high school mathematics", "pred": "C", "answer": "A", "ok": false}
+{"subject": "high school mathematics", "pred": "D", "answer": "C", "ok": false}
+{"subject": "high school mathematics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "high school mathematics", "pred": "B", "answer": "D", "ok": false}
+{"subject": "high school mathematics", "pred": "A", "answer": "D", "ok": false}
+{"subject": "high school physics", "pred": "B", "answer": "A", "ok": false}
+{"subject": "high school physics", "pred": "B", "answer": "C", "ok": false}
+{"subject": "high school physics", "pred": "D", "answer": "B", "ok": false}
+{"subject": "high school physics", "pred": "B", "answer": "A", "ok": false}
+{"subject": "high school physics", "pred": "A", "answer": "A", "ok": true}
+{"subject": "high school politics", "pred": "C", "answer": "C", "ok": true}
+{"subject": "high school politics", "pred": "D", "answer": "C", "ok": false}
+{"subject": "high school politics", "pred": "C", "answer": "A", "ok": false}
+{"subject": "high school politics", "pred": "B", "answer": "B", "ok": true}
+{"subject": "high school politics", "pred": "C", "answer": "B", "ok": false}
+{"subject": "ideological and moral cultivation", "pred": "A", "answer": "D", "ok": false}
+{"subject": "ideological and moral cultivation", "pred": "D", "answer": "D", "ok": true}
+{"subject": "ideological and moral cultivation", "pred": "C", "answer": "A", "ok": false}
+{"subject": "ideological and moral cultivation", "pred": "C", "answer": "B", "ok": false}
+{"subject": "ideological and moral cultivation", "pred": "D", "answer": "D", "ok": true}
+{"subject": "law", "pred": "C", "answer": "B", "ok": false}
+{"subject": "law", "pred": "D", "answer": "C", "ok": false}
+{"subject": "law", "pred": "D", "answer": "C", "ok": false}
+{"subject": "law", "pred": "B", "answer": "A", "ok": false}
+{"subject": "law", "pred": "C", "answer": "C", "ok": true}
+{"subject": "legal professional", "pred": "B", "answer": "C", "ok": false}
+{"subject": "legal professional", "pred": "B", "answer": "C", "ok": false}
+{"subject": "legal professional", "pred": "D", "answer": "D", "ok": true}
+{"subject": "legal professional", "pred": "C", "answer": "C", "ok": true}
+{"subject": "legal professional", "pred": "A", "answer": "B", "ok": false}
+{"subject": "logic", "pred": "D", "answer": "D", "ok": true}
+{"subject": "logic", "pred": "D", "answer": "D", "ok": true}
+{"subject": "logic", "pred": "D", "answer": "D", "ok": true}
+{"subject": "logic", "pred": "A", "answer": "C", "ok": false}
+{"subject": "logic", "pred": "D", "answer": "B", "ok": false}
+{"subject": "mao zedong thought", "pred": "C", "answer": "A", "ok": false}
+{"subject": "mao zedong thought", "pred": "D", "answer": "B", "ok": false}
+{"subject": "mao zedong thought", "pred": "D", "answer": "C", "ok": false}
+{"subject": "mao zedong thought", "pred": "C", "answer": "C", "ok": true}
+{"subject": "mao zedong thought", "pred": "D", "answer": "C", "ok": false}
+{"subject": "marxism", "pred": "B", "answer": "C", "ok": false}
+{"subject": "marxism", "pred": "C", "answer": "C", "ok": true}
+{"subject": "marxism", "pred": "B", "answer": "B", "ok": true}
+{"subject": "marxism", "pred": "B", "answer": "A", "ok": false}
+{"subject": "marxism", "pred": "D", "answer": "C", "ok": false}
+{"subject": "metrology engineer", "pred": "B", "answer": "D", "ok": false}
+{"subject": "metrology engineer", "pred": "D", "answer": "D", "ok": true}
+{"subject": "metrology engineer", "pred": "A", "answer": "D", "ok": false}
+{"subject": "metrology engineer", "pred": "C", "answer": "D", "ok": false}
+{"subject": "metrology engineer", "pred": "A", "answer": "A", "ok": true}
+{"subject": "middle school biology", "pred": "C", "answer": "B", "ok": false}
+{"subject": "middle school biology", "pred": "D", "answer": "C", "ok": false}
+{"subject": "middle school biology", "pred": "C", "answer": "C", "ok": true}
+{"subject": "middle school biology", "pred": "C", "answer": "A", "ok": false}
+{"subject": "middle school biology", "pred": "C", "answer": "B", "ok": false}
+{"subject": "middle school chemistry", "pred": "A", "answer": "D", "ok": false}
+{"subject": "middle school chemistry", "pred": "D", "answer": "B", "ok": false}
+{"subject": "middle school chemistry", "pred": "D", "answer": "A", "ok": false}
+{"subject": "middle school chemistry", "pred": "A", "answer": "C", "ok": false}
+{"subject": "middle school chemistry", "pred": "C", "answer": "C", "ok": true}
+{"subject": "middle school geography", "pred": "C", "answer": "C", "ok": true}
+{"subject": "middle school geography", "pred": "C", "answer": "C", "ok": true}
+{"subject": "middle school geography", "pred": "B", "answer": "B", "ok": true}
+{"subject": "middle school geography", "pred": "D", "answer": "D", "ok": true}
+{"subject": "middle school geography", "pred": "C", "answer": "D", "ok": false}
+{"subject": "middle school history", "pred": "B", "answer": "A", "ok": false}
+{"subject": "middle school history", "pred": "C", "answer": "B", "ok": false}
+{"subject": "middle school history", "pred": "D", "answer": "D", "ok": true}
+{"subject": "middle school history", "pred": "C", "answer": "C", "ok": true}
+{"subject": "middle school history", "pred": "B", "answer": "A", "ok": false}
+{"subject": "middle school mathematics", "pred": "C", "answer": "D", "ok": false}
+{"subject": "middle school mathematics", "pred": "C", "answer": "D", "ok": false}
+{"subject": "middle school mathematics", "pred": "A", "answer": "B", "ok": false}
+{"subject": "middle school mathematics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "middle school mathematics", "pred": "C", "answer": "B", "ok": false}
+{"subject": "middle school physics", "pred": "C", "answer": "C", "ok": true}
+{"subject": "middle school physics", "pred": "C", "answer": "C", "ok": true}
+{"subject": "middle school physics", "pred": "C", "answer": "D", "ok": false}
+{"subject": "middle school physics", "pred": "A", "answer": "A", "ok": true}
+{"subject": "middle school physics", "pred": "C", "answer": "B", "ok": false}
+{"subject": "middle school politics", "pred": "D", "answer": "A", "ok": false}
+{"subject": "middle school politics", "pred": "D", "answer": "B", "ok": false}
+{"subject": "middle school politics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "middle school politics", "pred": "D", "answer": "A", "ok": false}
+{"subject": "middle school politics", "pred": "B", "answer": "B", "ok": true}
+{"subject": "modern chinese history", "pred": "C", "answer": "C", "ok": true}
+{"subject": "modern chinese history", "pred": "C", "answer": "C", "ok": true}
+{"subject": "modern chinese history", "pred": "D", "answer": "D", "ok": true}
+{"subject": "modern chinese history", "pred": "D", "answer": "D", "ok": true}
+{"subject": "modern chinese history", "pred": "D", "answer": "A", "ok": false}
+{"subject": "operating system", "pred": "D", "answer": "D", "ok": true}
+{"subject": "operating system", "pred": "D", "answer": "C", "ok": false}
+{"subject": "operating system", "pred": "D", "answer": "D", "ok": true}
+{"subject": "operating system", "pred": "B", "answer": "B", "ok": true}
+{"subject": "operating system", "pred": "A", "answer": "A", "ok": true}
+{"subject": "physician", "pred": "C", "answer": "C", "ok": true}
+{"subject": "physician", "pred": "C", "answer": "C", "ok": true}
+{"subject": "physician", "pred": "D", "answer": "A", "ok": false}
+{"subject": "physician", "pred": "A", "answer": "A", "ok": true}
+{"subject": "physician", "pred": "D", "answer": "D", "ok": true}
+{"subject": "plant protection", "pred": "B", "answer": "D", "ok": false}
+{"subject": "plant protection", "pred": "A", "answer": "A", "ok": true}
+{"subject": "plant protection", "pred": "C", "answer": "B", "ok": false}
+{"subject": "plant protection", "pred": "B", "answer": "D", "ok": false}
+{"subject": "plant protection", "pred": "C", "answer": "A", "ok": false}
+{"subject": "probability and statistics", "pred": "C", "answer": "B", "ok": false}
+{"subject": "probability and statistics", "pred": "C", "answer": "C", "ok": true}
+{"subject": "probability and statistics", "pred": "A", "answer": "B", "ok": false}
+{"subject": "probability and statistics", "pred": "B", "answer": "C", "ok": false}
+{"subject": "probability and statistics", "pred": "D", "answer": "D", "ok": true}
+{"subject": "professional tour guide", "pred": "D", "answer": "C", "ok": false}
+{"subject": "professional tour guide", "pred": "D", "answer": "A", "ok": false}
+{"subject": "professional tour guide", "pred": "C", "answer": "B", "ok": false}
+{"subject": "professional tour guide", "pred": "D", "answer": "D", "ok": true}
+{"subject": "professional tour guide", "pred": "C", "answer": "D", "ok": false}
+{"subject": "sports science", "pred": "C", "answer": "C", "ok": true}
+{"subject": "sports science", "pred": "D", "answer": "A", "ok": false}
+{"subject": "sports science", "pred": "C", "answer": "C", "ok": true}
+{"subject": "sports science", "pred": "D", "answer": "A", "ok": false}
+{"subject": "sports science", "pred": "D", "answer": "C", "ok": false}
+{"subject": "tax accountant", "pred": "C", "answer": "A", "ok": false}
+{"subject": "tax accountant", "pred": "D", "answer": "D", "ok": true}
+{"subject": "tax accountant", "pred": "C", "answer": "A", "ok": false}
+{"subject": "tax accountant", "pred": "C", "answer": "A", "ok": false}
+{"subject": "tax accountant", "pred": "B", "answer": "B", "ok": true}
+{"subject": "teacher qualification", "pred": "D", "answer": "D", "ok": true}
+{"subject": "teacher qualification", "pred": "C", "answer": "B", "ok": false}
+{"subject": "teacher qualification", "pred": "D", "answer": "C", "ok": false}
+{"subject": "teacher qualification", "pred": "D", "answer": "A", "ok": false}
+{"subject": "teacher qualification", "pred": "D", "answer": "D", "ok": true}
+{"subject": "urban and rural planner", "pred": "B", "answer": "B", "ok": true}
+{"subject": "urban and rural planner", "pred": "D", "answer": "D", "ok": true}
+{"subject": "urban and rural planner", "pred": "D", "answer": "D", "ok": true}
+{"subject": "urban and rural planner", "pred": "B", "answer": "B", "ok": true}
+{"subject": "urban and rural planner", "pred": "B", "answer": "B", "ok": true}
+{"subject": "veterinary medicine", "pred": "C", "answer": "C", "ok": true}
+{"subject": "veterinary medicine", "pred": "C", "answer": "B", "ok": false}
+{"subject": "veterinary medicine", "pred": "D", "answer": "C", "ok": false}
+{"subject": "veterinary medicine", "pred": "C", "answer": "C", "ok": true}
+{"subject": "veterinary medicine", "pred": "C", "answer": "D", "ok": false}

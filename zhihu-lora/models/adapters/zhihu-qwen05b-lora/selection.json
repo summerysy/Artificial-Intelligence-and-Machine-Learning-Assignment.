@@ -1,0 +1,10 @@
+{
+  "selected_checkpoint_step": 50,
+  "reason": "step-150 had lower val loss but repetitive/degraded generations; step-50 keeps coherent generation",
+  "val_loss_step50": 3.9648,
+  "val_loss_step150": 3.9467,
+  "test_ppl_step50": 48.572,
+  "test_ppl_step150": 48.004,
+  "source_run_iters": 150,
+  "samples_seen_by_step50": 1600
+}

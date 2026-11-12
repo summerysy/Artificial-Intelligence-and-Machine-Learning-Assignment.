@@ -1,0 +1,19 @@
+{"step": 1, "epoch": 1, "loss": 4.6875, "lr": 3e-06, "grad_norm": 0.2492, "tokens": 8108, "tok_s": 732.9, "elapsed_s": 11.1}
+{"step": 10, "epoch": 1, "loss": 3.9531, "lr": 3e-05, "grad_norm": 0.0, "tokens": 83579, "tok_s": 797.4, "elapsed_s": 104.8}
+{"step": 20, "epoch": 1, "loss": 4.1875, "lr": 2.98e-05, "grad_norm": 0.0, "tokens": 166266, "tok_s": 803.8, "elapsed_s": 206.9}
+{"step": 30, "epoch": 1, "loss": 3.4844, "lr": 2.91e-05, "grad_norm": 0.0, "tokens": 239084, "tok_s": 796.3, "elapsed_s": 300.2}
+{"step": 40, "epoch": 1, "loss": 3.8281, "lr": 2.796e-05, "grad_norm": 0.0, "tokens": 328903, "tok_s": 804.2, "elapsed_s": 409.0}
+{"step": 50, "epoch": 1, "loss": 4.3125, "lr": 2.641e-05, "grad_norm": 0.0, "tokens": 405703, "tok_s": 802.4, "elapsed_s": 505.6}
+{"step": 50, "val_loss": 3.9648, "val_ppl": 52.709}
+{"step": 60, "epoch": 1, "loss": 4.0312, "lr": 2.454e-05, "grad_norm": 0.0, "tokens": 491633, "tok_s": 790.0, "elapsed_s": 622.3}
+{"step": 70, "epoch": 1, "loss": 3.7344, "lr": 2.244e-05, "grad_norm": 0.0, "tokens": 578875, "tok_s": 794.7, "elapsed_s": 728.5}
+{"step": 80, "epoch": 1, "loss": 3.25, "lr": 2.022e-05, "grad_norm": 0.0, "tokens": 650747, "tok_s": 793.8, "elapsed_s": 819.8}
+{"step": 90, "epoch": 1, "loss": 4.2188, "lr": 1.799e-05, "grad_norm": 0.0, "tokens": 733632, "tok_s": 796.1, "elapsed_s": 921.6}
+{"step": 100, "epoch": 1, "loss": 4.0625, "lr": 1.586e-05, "grad_norm": 0.0, "tokens": 813785, "tok_s": 797.0, "elapsed_s": 1021.1}
+{"step": 100, "val_loss": 3.9536, "val_ppl": 52.125}
+{"step": 110, "epoch": 1, "loss": 3.7969, "lr": 1.394e-05, "grad_norm": 0.0, "tokens": 894054, "tok_s": 792.7, "elapsed_s": 1127.9}
+{"step": 120, "epoch": 1, "loss": 3.8438, "lr": 1.232e-05, "grad_norm": 0.0, "tokens": 976643, "tok_s": 794.0, "elapsed_s": 1230.0}
+{"step": 130, "epoch": 1, "loss": 3.4062, "lr": 1.109e-05, "grad_norm": 0.0, "tokens": 1047484, "tok_s": 793.3, "elapsed_s": 1320.5}
+{"step": 140, "epoch": 1, "loss": 3.5, "lr": 1.03e-05, "grad_norm": 0.0, "tokens": 1129567, "tok_s": 794.0, "elapsed_s": 1422.7}
+{"step": 150, "epoch": 1, "loss": 4.1875, "lr": 1e-05, "grad_norm": 0.0, "tokens": 1207104, "tok_s": 794.3, "elapsed_s": 1519.7}
+{"step": 150, "val_loss": 3.9467, "val_ppl": 51.763}
